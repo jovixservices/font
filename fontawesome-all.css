@@ -12754,7 +12754,7 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-display: block;
   font-family: 'Font Awesome 5 Pro';
-  src: url("../fonts/fa-solid-900.ttf") format("truetype")
+  src: url("https://github.com/jovixservices/font/blob/main/fa-solid-900.ttf") format("truetype")
 }
 
 .fa,
